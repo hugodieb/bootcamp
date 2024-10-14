@@ -1,0 +1,6 @@
+# Ignorar arquivos de configuração e sensíveis
+.env
+node_modules/
+videos/
+venv/
+
